@@ -1,4 +1,4 @@
-Moje koníčky
+<h1>Moje koníčky</h1>
 
 Ahoj! Vítej v mém projektu o mých koníčcích.
 
@@ -7,10 +7,9 @@ Co mě baví
 Ve volném čase se věnuji různým aktivitám.
 
 Sport
-Hudba
 Hraní her
 Obrázky
-
+#images
 
 
 
